@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  /* -font-family: [League Spartan](https://fonts.google.com/specimen/League+Spartan); */
+ 
+-weights: 400, 500, 700;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+

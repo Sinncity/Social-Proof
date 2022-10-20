@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-size: 15px;
+  color:#ff00ff ;
+  height: 100vh;
+  width: 1440px auto;
+  
+}
+
+
+.App {
+  background-color: #282c34;
+
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+  color: white;
+}
+
+

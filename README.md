@@ -1,18 +1,24 @@
+Social Proof
+
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Build Status](#build-status)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Useful resources](#useful-resources)
+- [Authors](#author)
 
 ## Overview
 
 In the Social Proof we created a simple landing page for a review website. It includes description section, a section with cards that show multiple five star reviews and finally a section showing actual customer reviews.
+
+## Build Status
+
+Currently in production status
 
 ### Screenshot
 
@@ -38,3 +44,6 @@ In the Social Proof we created a simple landing page for a review website. It in
 ### Useful resources
 
 ## Authors
+
+Terrance Parker
+Heather Herries

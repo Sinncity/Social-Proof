@@ -1,12 +1,15 @@
 .header-container {
-  position: absolute;
-  top: 10%;
-  left: 12%;
-  width: 26%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 10%;
 }
 
 .header-container h1 {
-  font-size: 42px;
+  font-size: 52px;
   font-weight: 700;
   color: hsl(300, 43%, 22%);
 }
@@ -19,10 +22,36 @@
 }
 
 @media only screen and (max-width: 750px) {
-  
+  .header-container {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+  }
+
+  .header-container h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+  .header-container p {
+    font-size: 20px;
+    text-align: center;
+  }
 }
 
 @media only screen and (max-width: 375px) {
-  
+  .header-container {
+    margin-top: 20%;
+  }
+
+  .header-container h1 {
+    font-size: 40px;
+    margin-top: 1%;
+  }
+
+  .header-container p {
+    font-size: 16px;
+    margin-top: 1%;
+  }
 }
 

@@ -45,5 +45,5 @@ Currently in production status
 
 ## Authors
 
-Terrance Parker
-Heather Herries
+- Terrance Parker
+- Heather Herries

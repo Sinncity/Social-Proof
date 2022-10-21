@@ -1,0 +1,28 @@
+.header-container {
+  position: absolute;
+  top: 10%;
+  left: 12%;
+  width: 26%;
+}
+
+.header-container h1 {
+  font-size: 42px;
+  font-weight: 700;
+  color: hsl(300, 43%, 22%);
+}
+
+.header-container p {
+  font-size: 15px;
+  font-weight: 500;
+  color: hsl(300, 43%, 22%);
+  line-height: 150%;
+}
+
+@media only screen and (max-width: 750px) {
+  
+}
+
+@media only screen and (max-width: 375px) {
+  
+}
+

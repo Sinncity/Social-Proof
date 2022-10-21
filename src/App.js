@@ -8,11 +8,12 @@ function App() {
   return (
     <>
     <div className="App">
-       
-       <Header/>
-        <StarCard/>
-        <ReviewCard/>
-
+      <div className="top-image"></div>
+      <div className="bottom-image"></div>
+       <Header />
+        <StarCard />
+        <ReviewCard />
+    
     </div>
         </>
   );

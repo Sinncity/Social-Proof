@@ -1,21 +1,24 @@
 .App {
-  text-align: center;
-  font-size: 15px;
-  color:#ff00ff ;
-  height: 100vh;
-  width: 1440px auto;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'League Spartan', sans-serif;
+}
+.top-image {
+  background-image: url(../images/bg-pattern-top-desktop.svg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 50vh;
+}
+
+.bottom-image {
+  position: absolute;
+  background-image: url(../images/bg-pattern-bottom-desktop.svg);
+  background-repeat: no-repeat;
+  width: 75%;
+  height: 90vh;
+  top: 14.5%;
+  left: 25%;
   
 }
-
-
-.App {
-  background-color: #282c34;
-
-  display: flex;
-  flex-direction: column;
-  align-items:center;
-  justify-content: center;
-  color: white;
-}
-
 

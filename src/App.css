@@ -5,6 +5,7 @@
   font-family: 'League Spartan', sans-serif;
 }
 .top-image {
+  position: absolute;
   background-image: url(../images/bg-pattern-top-desktop.svg);
   background-repeat: no-repeat;
   width: 100%;
@@ -19,6 +20,26 @@
   height: 90vh;
   top: 14.5%;
   left: 25%;
-  
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  grid-template-rows: 50vh 50vh;
+}
+
+@media only screen and (max-width: 750px){
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .top-image {
+    background-image: url(../images/bg-pattern-top-mobile.svg);
+  }
+
+  .bottom-image {
+    background-image: none;
+  }
+}

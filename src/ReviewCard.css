@@ -1,0 +1,11 @@
+.reviewcard-container {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+@media only screen and (max-width: 750px){
+  .reviewcard-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+}

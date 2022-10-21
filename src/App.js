@@ -10,10 +10,11 @@ function App() {
     <div className="App">
       <div className="top-image"></div>
       <div className="bottom-image"></div>
+      <div className="grid-container">
        <Header />
         <StarCard />
         <ReviewCard />
-    
+      </div>
     </div>
         </>
   );

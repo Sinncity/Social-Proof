@@ -1,0 +1,34 @@
+.Header{
+position: absolute;
+width: 445px;
+height: 154px;
+left: 165px;
+top: 118px;
+
+ font-style: 'league Spartan'; 
+font-style: normal;
+font-weight: 700;
+font-size: 56px;  
+line-height: 86%;
+color: #512051;
+letter-spacing: -2px;
+      
+
+}
+.Paragraph{
+position: absolute;
+width: 445px;
+height: 75px;
+left: 165px;
+top: 288px;
+color: #927B91;
+      
+      font-family: League Spartan;
+font-size: 19px;
+font-weight: 500;
+line-height: 132%;
+letter-spacing: -0.6333333253860474px;
+text-align: left;
+
+
+}

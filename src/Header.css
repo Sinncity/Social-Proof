@@ -4,7 +4,8 @@
   align-items: center;
   flex-direction: column;
   width: 50%;
-  margin-left: 25%;
+  /* Leave margin- left as is until ready to convert to rem. This is how you line it up perfectly */
+  margin-left: 165px;
   margin-top: 10%;
 }
 
@@ -12,6 +13,7 @@
   font-size: 52px;
   font-weight: 700;
   color: hsl(300, 43%, 22%);
+  
 }
 
 .header-container p {
@@ -31,11 +33,13 @@
   .header-container h1 {
     font-size: 60px;
     text-align: center;
+    width: 1110px;
   }
 
   .header-container p {
     font-size: 20px;
     text-align: center;
+   
   }
 }
 

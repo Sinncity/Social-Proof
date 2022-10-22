@@ -1,0 +1,128 @@
+.Card1{
+      background: #512051;
+      border-radius: 8px;
+      position: absolute;
+      width: 350px;
+      height: 234px;
+      margin-left: 165px;
+      margin-top: 434px;
+       display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+  
+     
+
+}
+.Name1{
+position: absolute;
+width: 99px;
+height: 36px;
+left: 260px;
+top: 477px;
+color: #FFF;
+
+}
+.P-Card1{
+      width: 286px;
+      height: 88px;
+      left: 197px;
+      top: 545px;
+      font-size: 17px;
+      font-weight: 500;
+      font-style:normal ;
+      line-height: 129%;
+      color:#FFF;
+      letter-spacing: -0.303571px;
+
+
+}
+
+
+ .Card2{
+      background: #512051;
+      border-radius: 8px;
+      position: absolute;
+      width: 350px;
+      height: 234px;
+      left: 545px;
+      top: 450px;
+      display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+      
+}
+.Name2{
+      position: absolute;
+      width: 163px;
+      height: 40px;
+      left: 577px;
+      top: 490px;
+      
+     
+      color: #FFF;
+      font-size: 17px;
+      font-weight: 700;
+      line-height: 16px;
+     
+  
+      
+      
+      }
+.P-Card2{
+      width: 286px;
+      height: 88px;
+      left: 577px;
+      top: 561px;
+      font-style:normal ;
+      font-weight: 500;
+      font-size: 17px;
+      line-height: 129%;
+      color:#FFF;
+      letter-spacing: -0.303571px;
+      
+
+
+}
+
+.Card3{
+      background: #512051;
+      border-radius: 8px;
+      position: absolute;
+      width: 350px;
+      height: 234px;
+      left: 925px;
+      top: 466px;
+      letter-spacing: -0.303571px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column; 
+} 
+
+.Name3{
+      position: absolute;
+      height: 16px;
+      left: 0%;
+      top: 477px;
+      color: #FFF;
+      font-style:normal ;
+      font-weight: 500;
+        font-size: 17px;
+      
+      }
+.P-Card3{
+      width: 286px;
+      height: 88px;
+      left: 957px;
+      top: 577px;
+      font-style:normal ;
+      font-weight: 500;
+      font-size: 17px;
+      line-height: 129%;
+      color:#FFF;
+      letter-spacing: -0.303571px;
+
+
+}

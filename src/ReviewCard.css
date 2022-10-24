@@ -1,11 +1,6 @@
 .reviewcard-container {
-   grid-column-start: 1;
+  grid-column-start: 1;
   grid-column-end: 3; 
-  position: absolute;
-  width: 1110px;
-  height: 266px;  
-  left: 165px;
-  top: 434px; 
 }
 
 @media only screen and (max-width: 750px){

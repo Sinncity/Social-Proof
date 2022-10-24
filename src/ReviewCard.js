@@ -1,18 +1,13 @@
-import './ReviewCard.css'
-import Card1  from "./Card";
-import Card2  from "./Card";
-import Card3  from "./Card";
+import React from 'react'
 
-export default function ReviewCard() {
+function ReviewCard() {
   return (
-  <>
-    <div className='reviewcard-container'></div>
-  <Card1/>
-  <Card2/>
-  <Card3/>
-  
- 
-    </>
+    <div>
+      <p>Review Cards</p>
+    </div>
   )
 }
+
+export default ReviewCard
+
 

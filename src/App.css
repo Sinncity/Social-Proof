@@ -36,6 +36,10 @@
   .grid-container {
     grid-template-columns: 1fr;
   }
+
+  .bottom-image {
+    background-image: none;
+  }
 }
 
 @media only screen and (max-width: 375px) {
